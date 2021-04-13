@@ -9,6 +9,9 @@
     },
     {
       "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku-community/apt.tgz"
+    },
+    {
+      "url": "https://github.com/pmcintyresfdc/heroku-buildpack-nginx"
     }
   ],
   "addons": [
