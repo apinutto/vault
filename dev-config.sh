@@ -3,6 +3,8 @@
 set -e 
 
 cat << EOF
+ui = true
+
 disable_mlock = true
 
 storage "postgresql" {
