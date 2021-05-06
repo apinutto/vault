@@ -3,17 +3,6 @@
   "description": "deploy a dev vault server to heroku",
   "repository": "https://github.com/pmcintyresfdc/vault",
   "keywords": ["vault", "server"],
-  "buildpacks": [
-    {
-      "url": "https://github.com/pmcintyresfdc/heroku-buildpack-vault.git"
-    },
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-ruby"
-    },
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-nginx"
-    }
-  ],
   "addons": [
     {
       "plan": "heroku-postgresql",
