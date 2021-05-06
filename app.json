@@ -8,7 +8,7 @@
       "url": "https://github.com/pmcintyresfdc/heroku-buildpack-vault.git"
     },
     {
-      "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku-community/apt.tgz"
+      "url": "https://github.com/heroku/heroku-buildpack-ruby"
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-nginx"
