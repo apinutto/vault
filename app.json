@@ -11,7 +11,7 @@
       "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku-community/apt.tgz"
     },
     {
-      "url": "https://github.com/apinutto/heroku-buildpack-nginx"
+      "url": "https://github.com/heroku/heroku-buildpack-nginx"
     }
   ],
   "addons": [
