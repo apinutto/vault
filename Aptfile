@@ -1,2 +1,3 @@
 nginx
 libssl1.0 libssl-dev
+libssl1.1 libssl-dev
